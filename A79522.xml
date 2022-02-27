@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Way of deliverance from bondage set forth in love to the simple, who have erred for lack of knowledge. The redemption of the holy seed, is through judgement on that which hath hindered its gr[owth] ... / By one that desires the enlargement of the righteous seed, which i[s] impris[o]ned in the unconverted, Thomas Chilton.</title>
+            <author>Chilton, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79522</idno>
+            <idno type="STC">Wing C3896</idno>
+            <idno type="STC">ESTC R171315</idno>
+            <idno type="EEBO-CITATION">43663226</idno>
+            <idno type="OCLC">ocm 43663226</idno>
+            <idno type="VID">171970</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171970)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2604:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Way of deliverance from bondage set forth in love to the simple, who have erred for lack of knowledge. The redemption of the holy seed, is through judgement on that which hath hindered its gr[owth] ... / By one that desires the enlargement of the righteous seed, which i[s] impris[o]ned in the unconverted, Thomas Chilton.</title>
+                  <author>Chilton, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons, at the Bull and Mouth near Aldersgate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded, with broken and mis-aligned type, and slight loss of text; bracketed material conjectured by cataloger.</note>
+                  <note>Reproduction of original in: British Library.</note>
+                  <note>Includes bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Quaker authors --  Early works to 1800.</term>
+               <term>Inner light --  Early works to 1800.</term>
+               <term>Conversion --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171970:1"/>
+            <p>WAY of deliverance from BONDAGE.</p>
+            <p>Set forth in love to the ſimple, who have erred for lack of knowledge.</p>
+            <p>The Redemption of the holy <hi>Seed,</hi> is through Judgement on that which hath hindred its gro<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <hi>Iſa.</hi> 1.27. and purification is by the ſire of <hi>Zion,</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d and the furnace of <hi>Jeruſalem,</hi> the which comes to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> known by owning and ſubmitting unto the power of the burning <hi>Light</hi> in its operation of Judgement againſt the tranſgreſſor, which breaks the peace of the wicke<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he hath in his wickedneſs, and hereby throu<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſubmiſſion unto the ſword of the Spirit of Judgement is learned to anſwer t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e requitings thereof, by which man comes to be purged, and made a veſſel unto ho<g ref="char:EOLhyphen"/>nour, meet for the Maſters uſe.</p>
+            <q>
+               <p>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h! prepare to meet the Lord in the way of his Judgements, for all his wayes are Judgement,</p> 
+               <bibl>Deut. 32.4.</bibl>
+            </q>
+            <p>By one that deſires the enlargement of the righteou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Seed,</hi> which is impriſoned in the unconverted. THOMAS CHILTON.</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondon, Printed for <hi>Thomas Simmons,</hi> at th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bull and Mouth near Alderſgate, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:171970:2"/>
+            <head>
+               <hi>The way of deliverance from Bondage.</hi> He is in the way of life that receiveth (and keepeth) inſtruction, but he that r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fuſeth reproof is brutiſh.</head>
+            <p>ALl men by nature being obedient children unto the God of this world, and ſubjects to the prince of the air,<note place="margin">
+                  <hi>Epheſ.</hi> 2.2.3. <hi>Pſ.</hi> 14.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.3 <hi>Jer.</hi> 10.23</note> are diſobedient unto the God of hea<g ref="char:EOLhyphen"/>ven, the everlaſting King of righteouſ<g ref="char:EOLhyphen"/>neſs, and have no power in them (that is of them) to turn from evil to good, being they are under the rule and Authority of their Maſter the Devil. Now if any have in them a deſire to be delivered from the bondage, and ſervitude of ſin, and death, they muſt look un<g ref="char:EOLhyphen"/>to that light which <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akes the condition mani<g ref="char:EOLhyphen"/>feſt,<note place="margin">
+                  <hi>Eph.</hi> 5.13.</note> and from whenc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the deſire to be delivered ariſes; for it is the light of Chriſt in man which wars againſt the King and kingdom of dark<g ref="char:EOLhyphen"/>neſs, ſtriving to overturn his government, and to deliver the captives from under his power which keeps them in bondage; but the natural man when the light of the ſpirit makes mani<g ref="char:EOLhyphen"/>feſt his ſin, and ſhews the danger of walking therein, &amp; reproves him for it, and exhorts him to follow the light and obey its counſel, which would lead him out of ſin, then he cries out, I
+<pb n="3" facs="tcp:171970:2"/> want power; Now to ſuch I ſay that the power over ſin is in the ſpitit wch reproves for ſin, and he that rejects this ſpirit (which is light) rejects the power, and he that receives it receives the power; yet it may be objected by ſome he has not a free-will, nor power to receive that in wch the power is. <hi>An.</hi> Its true, man as he is in the power which captivates him in ſin hath not a free-will, for its in bondage; but there is a will in man which is not of man, which doth ſtrive to beget the will of man (that is in bon<g ref="char:EOLhyphen"/>dage) into freedom;<note place="margin">
+                  <hi>Ezek.</hi> 18.</note> and this is that which willeth not the death of him that dieth, but that all men ſhould come to the knowledge of the truth, and be ſaved. And as for thoſe who ſay they have not power to receive that in which the power (over ſin) is, I (out of ten<g ref="char:EOLhyphen"/>der love to their precious ſouls) have written a few words for their information.</p>
+            <p>The immortal wiſe God of love (whoſe grace hath appeared unto all men) deſireth not that any man ſhould periſh,<note place="margin">
+                  <hi>Tit.</hi> 2.11, 12. <hi>Mat.</hi> 1.21.</note> but that all ſhould come to know his power, his light and grace; (which is his Son) to be their Saviour,<note place="margin">
+                  <hi>Iſai.</hi> 59.2.</note> (who ſaves his people from their ſins) therefore doth he ſtrive to draw all men unto the Son by the cords of his love. Now he draweth that which hath been ſeperated, for all men by reaſon of tranſ<g ref="char:EOLhyphen"/>greſſion hath been degenerated, and ſeparated from God, and his work is to draw and ſeparate the creature (by the light) from that which hath blinded the creature, and hid the face of God. Now all the ſtrength which man has is to look unto the light which makes manifeſt
+<pb n="4" facs="tcp:171970:3"/> his deeds of darkneſs, and reproves him for them,<note place="margin">Iſa. <hi>30.7.</hi> Mans ſtrength is to ſit ſtill.</note> and ſo to ſit ſtill from his own willing, and runing, that the power of the light which wreſtles &amp; bringeth judgement on the power of darkneſs, may rend the cords of iniquity which ti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the creature to the devil, &amp; this ſpiritual light of judgement doth draw &amp; ſtrive to redeem the creature out of its bondage, by bringing judge<g ref="char:EOLhyphen"/>ment, and Miniſtring condemnation upon all his deeds; and all that is required of the crea<g ref="char:EOLhyphen"/>ture is to ſtand ſtill and own the ſpirits Mini<g ref="char:EOLhyphen"/>ſtration of judgement on him, and quietly to lie down under them, and herein lieth his ſtrength. And as there is a patient waiting under the judgement of the power, the ſtrong man comes to be bound, and the keepers of the houſe are made to tremble; and in this man<g ref="char:EOLhyphen"/>ner is the creature brought forth into victory, (through judgement) over his enemy the de<g ref="char:EOLhyphen"/>vil, but where the drawings of the Lord are re<g ref="char:EOLhyphen"/>fuſed, and judgement ſcorned, the power over ſin is not known; and before any comes to feel power over ſin, they muſt fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt know (&amp; open) the door at which the power enters, to wit, a ſtanding ſtill from ſelf-willing and acting, which darkens the heart, and to look with care un<g ref="char:EOLhyphen"/>to the light which ſhines in the midſt of dark<g ref="char:EOLhyphen"/>neſs, that the blind eye may be opened, and receive ſight; and this light is the free gift of the Father which plentifully ſprings from the fountain to refreſh the dry thirſty Land: but many there be who throw up mountains and heap up great hills (out of their impenitent carnal hearts) to ſtop the paſſage of the ſweet
+<pb n="5" facs="tcp:171970:3"/> ſtreams of the waters of <hi>Shilo</hi> which run ſoftly, and there is none can truly taſte the vertue and goodneſs of this water, but thoſe who come down from of the mountains [of their imagina<g ref="char:EOLhyphen"/>tions,] for the mountains are high, but rhe waters are below the hills, and the way to re<g ref="char:EOLhyphen"/>ceive it is to ſtand ſtill in coolneſs, and not to reach after it in a ſelf-will, for that cannot taſte it, nor imbrace it; but as there is a ſitting ſtill in a ſober frame of ſpirit, it ſprings up freely of it ſelf in the heart, to beget a thirſting de<g ref="char:EOLhyphen"/>ſire, and alſo to ſatisfie it with that which is more precious then Rubies, he that hath an ear let him hear. So the chief thing which is firſt required of people [by the light<g ref="char:punc">▪</g>] is to ſit ſtill, that is, when the light miniſtreth forth judge<g ref="char:EOLhyphen"/>ment, and condemnation upon all their wic<g ref="char:EOLhyphen"/>ked words, and actions, that they do not fly back from the light which makes them mani<g ref="char:EOLhyphen"/>feſt, nor revolt from the judgements thereof; but that they own the ſmiting of the Lord by the light, for their manifold tranſgreſſions, and condemnation to be due unto them; and ſo to look unto the light which makes manifeſt ſin in the firſt motion, and ſubmit to [and lie down under] the judgements of the power thereof, which firſt wounds, and then by de<g ref="char:EOLhyphen"/>grees cures with the healing ſtripes of his love, and this is the ſtrength which the Lord re<g ref="char:EOLhyphen"/>quires, and whoſoever will not make uſe of it;<note place="margin">Prov. <hi>1.24.</hi> to the end of the chapter.</note> but runs on without fear in the race of wickedneſſes, caſting the Counſel of Gods love behinde their backs, and will have none of his reproof, they are hardened, and their
+<pb n="6" facs="tcp:171970:4"/> deſtruction is of themſelves; therefore let all who feel the reproofes of the Lord by his light in them, mind what it reproveth for, and there to ſtand ſtill, looking unto the light which counſels to do ſo no more, and as it is owned in its reproof, by degrees the power comes to be received over thoſe ſins which it reproves for, and as there is a patient waiting under the miniſtration of condemna<g ref="char:EOLhyphen"/>tion, and a ſtanding in aw of the light, fearing to act thoſe things which is guilty of reproof; then man comes to be guided out of ſin, and led in a way to life which he knows not. And ſo let none refuſe,<note place="margin">
+                  <hi>Iſa.</hi> 42.16.</note> but all mind the drawings of the Father, who with the light of his Spi<g ref="char:EOLhyphen"/>rit ſtriveth with man to turn from darkneſs to light;<note place="margin">
+                  <hi>Gen.</hi> 6.3: <hi>Pſal.</hi> 95.7, 8.</note> for the Spirit ſhall not alwayes ſtrive with man, but whilſt it doth ſtrive and call (to day) if ye will hear his voice, harden not your hearts, leaſt he ceaſe ſtriving with you, and ſeal you up in the pit of torment, out of which there is no Redemption, then it would have been better ye never had been born; Therefore when the light reproveth, and cal<g ref="char:EOLhyphen"/>leth t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> depart from ſin, let none ſay, I want power, nor refuſe to make uſe of their ſtrength, in ſitting ſtill; for that is the ſlothful ſervant [and not the willing] who muſt be turned into utter darkneſs,<note place="margin">
+                  <hi>Matth.</hi> 25.30.</note> where there is ſore tribulation, and anguiſh; but bleſſed are thoſe who have learned by the light, to ceaſe for evil, and to do well, for unto ſuch, power is increaſed to give victory over the enemy, who goeth about like a roaring Lyon, ſeeking whom he may devour.</p>
+            <pb n="7" facs="tcp:171970:4"/>
+            <p>And what though the covetous money-ſuc<g ref="char:EOLhyphen"/>king Prieſts, and ignorant, contentious, car<g ref="char:EOLhyphen"/>nal profeſſors, have ſet themſelves in battel a<g ref="char:EOLhyphen"/>gainſt the light [which is the good gift of God to every man,<note place="margin">1 <hi>Cor:</hi> 12.7. 2 <hi>Pet.</hi> 1.19.</note> unto which all would do well to take heed] ſome calling it a natural light, &amp; others calling it darkneſs, giving it lying titles to fright people from believing it to be of God; y<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the light ſhall grow and flouriſh, and all that oppoſe it ſhall fade and wither. And as the people of old had ſeveral judgements and opinions concerning the man Chriſt Jeſus, ſo the people have now concerning his light; ſome ſaid, he was a good man, others ſaid,<note place="margin">
+                  <hi>John</hi> 7.12.</note> nay, but he deceives the people; ſo thoſe who have taſted the vertue of the light, and know its ſufficiency, ſay, it is able to lead all rhat give up themſelves to be guided thereby un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the knowledge of Salvation by Jeſus Chriſt; but [out of ignorance] others ſay, nay, it is a deluſion; yet the unbelief of ſome, makes not void the Faith of thoſe who feel the riches of the goodneſs thereof to be more worth then rubies;<note place="margin">
+                  <hi>John</hi> 1.4, 9.</note> and this light with which every man is enlightned, is Spirit, and life, though this [corrupt wordly wiſe] profeſſing age will no more acknowledge it to be ſo, then the Jews of old would acknowledge Jeſus to be the Chriſt. Oh! <hi>England, England,</hi> thou that denieſt the light of Chriſt, which appears in the inward parts of all people, thy know<g ref="char:EOLhyphen"/>ledge hath puft thee up, thy wiſdom hath per<g ref="char:EOLhyphen"/>verted thee, and thou art become a nurſe to the Babyloniſh whores baſtards, who art en<g ref="char:EOLhyphen"/>vying
+<pb n="8" facs="tcp:171970:5"/> the honeſt woman, and pleading for whoredom, but the wages due for thy work, thou ſhall receive unavoidably.</p>
+            <epigraph>
+               <q>The Righteouſneſs of the Righteous ſhall be upon him, and the wickedneſs of the wicked ſhall be upon him.</q>
+            </epigraph>
+            <closer>
+               <signed>By one that deſires the releaſement of the impriſoned ſeed.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:171970:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
